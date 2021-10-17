@@ -3,7 +3,7 @@ This is HTML code that was used to create PDF forms for daily field reports that
 
 # What I learned
 * Using Power Automate to save time by creating relative workflows.
-* Using HTML/CSS code to produce PDF reports.
+* Using HTML code to produce PDF reports.
 
 # HTML Report Format
 ![alt text](html.jpg)
